@@ -19,7 +19,8 @@
     "build": "tsc",
     "watch": "tsc --watch",
     "test": "nyc mocha",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "prepack": "npm run build"
   },
   "nyc": {
     "include": [
