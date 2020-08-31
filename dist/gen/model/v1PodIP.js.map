@@ -1,0 +1,1 @@
+{"version":3,"file":"v1PodIP.js","sourceRoot":"","sources":["../../../src/gen/model/v1PodIP.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;GAUG;;;AAIH;;EAEE;AACF,MAAa,OAAO;IAehB,MAAM,CAAC,mBAAmB;QACtB,OAAO,OAAO,CAAC,gBAAgB,CAAC;IACpC,CAAC;;AAjBL,0BAkBC;AAZU,qBAAa,GAAuB,SAAS,CAAC;AAE9C,wBAAgB,GAA0D;IAC7E;QACI,MAAM,EAAE,IAAI;QACZ,UAAU,EAAE,IAAI;QAChB,MAAM,EAAE,QAAQ;KACnB;CAAK,CAAC"}
